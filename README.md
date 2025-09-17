@@ -16,5 +16,4 @@ H. Pan, Q. Zhang, H. Ge, M. Liu and C. Shi, "PyionNet: Pyramid Progressive Cross
   volume={18},
   number={},
   pages={12042-12058},
-  keywords={Feature extraction;Laser radar;Data mining;Transformers;Land surface;Accuracy;Roads;Hyperspectral imaging;Aggregates;Spatial databases;Cross-fusion;hyperspectral (HS);image classification;light detection and ranging (LiDAR);multiscale convolution},
   doi={10.1109/JSTARS.2025.3566214}}
